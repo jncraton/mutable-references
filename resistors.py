@@ -70,7 +70,7 @@ def compute_parallel(components):
     return 0.0
 
 
-def total_resistance(network, round_digits=2):
+def total_resistance(network):
     """Compute total resistance of a network.
 
     The function dispatches to compute_series and compute_parallel.
