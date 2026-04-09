@@ -1,5 +1,5 @@
 test:
-	python3 lab.py
+	python3 resistors.py
 
 run: test
 
